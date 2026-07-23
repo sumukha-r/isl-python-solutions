@@ -12,9 +12,9 @@ The repository contains my own:
 
 ## Repository Structure
 
-Chapter03-Linear-Regression/
-README.md
-requirements.txt
+- Chapter03-Linear-Regression/
+- README.md
+- requirements.txt
 
 ## Progress
 
