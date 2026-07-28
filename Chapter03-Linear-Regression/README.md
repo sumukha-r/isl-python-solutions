@@ -7,6 +7,6 @@
 - [x] Exercise 10
 - [x] Exercise 11
 - [x] Exercise 12
-- [ ] Exercise 13
+- [x] Exercise 13
 - [ ] Exercise 14
 - [ ] Exercise 15
