@@ -8,5 +8,5 @@
 - [x] Exercise 11
 - [x] Exercise 12
 - [x] Exercise 13
-- [ ] Exercise 14
+- [x] Exercise 14
 - [ ] Exercise 15
