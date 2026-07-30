@@ -9,4 +9,4 @@
 - [x] Exercise 12
 - [x] Exercise 13
 - [x] Exercise 14
-- [ ] Exercise 15
+- [x] Exercise 15
