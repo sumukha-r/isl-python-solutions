@@ -13,6 +13,7 @@ The repository contains my own:
 ## Repository Structure
 
 - Chapter03-Linear-Regression/
+- Chapter04-Classification/
 - README.md
 - requirements.txt
 
