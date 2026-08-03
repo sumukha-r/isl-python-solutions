@@ -20,7 +20,7 @@ The repository contains my own:
 ## Progress
 
 - [x] Chapter 3
-- [ ] Chapter 4
+- [x] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
 - [ ] Chapter 7
