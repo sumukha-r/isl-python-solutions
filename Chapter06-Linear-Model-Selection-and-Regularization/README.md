@@ -5,4 +5,4 @@
 - [x] Exercise 8
 - [x] Exercise 9
 - [x] Exercise 10
-- [ ] Exercise 11
+- [x] Exercise 11
