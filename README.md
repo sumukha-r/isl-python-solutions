@@ -14,6 +14,8 @@ The repository contains my own:
 
 - Chapter03-Linear-Regression/
 - Chapter04-Classification/
+- Chapter05-Resampling-Methods/
+- Chapter06-Linear-Model-Selection-and-Regularization/
 - README.md
 - requirements.txt
 
@@ -22,7 +24,7 @@ The repository contains my own:
 - [x] Chapter 3
 - [x] Chapter 4
 - [x] Chapter 5
-- [ ] Chapter 6
+- [x] Chapter 6
 - [ ] Chapter 7
 - [ ] Chapter 8
 - [ ] Chapter 9
