@@ -16,7 +16,7 @@ The repository contains my own:
 - Chapter04-Classification/
 - Chapter05-Resampling-Methods/
 - Chapter06-Linear-Model-Selection-and-Regularization/
-- Chapter07-Moving-Beyond-Linearity
+- Chapter07-Moving-Beyond-Linearity/
 - README.md
 - requirements.txt
 
