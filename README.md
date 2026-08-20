@@ -17,6 +17,7 @@ The repository contains my own:
 - Chapter05-Resampling-Methods/
 - Chapter06-Linear-Model-Selection-and-Regularization/
 - Chapter07-Moving-Beyond-Linearity/
+- Chapter08-Tree-Based-Models/
 - README.md
 - requirements.txt
 
