@@ -2,7 +2,6 @@
 
 ## Progress
 
-- [ ] Exercise 6
 - [ ] Exercise 7
 - [ ] Exercise 8
 - [ ] Exercise 9
