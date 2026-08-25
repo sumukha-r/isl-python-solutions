@@ -2,7 +2,7 @@
 
 ## Progress
 
-- [ ] Exercise 7
+- [x] Exercise 7
 - [ ] Exercise 8
 - [ ] Exercise 9
 - [ ] Exercise 10
