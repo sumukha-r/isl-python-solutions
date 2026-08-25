@@ -2,13 +2,15 @@
 
 This repository documents my study of **Introduction to Statistical Learning (ISL)** by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
 
-The repository contains my own:
+The repository contains:
 
 - Solutions to the applied exercises
 - Notes and explanations
 - Data visualizations
 - Model implementations in Python
 - Key concepts learned from each chapter
+
+**The code is mostly generated using AI but the analysis and notes under each are done by me**
 
 ## Repository Structure
 
@@ -27,7 +29,7 @@ The repository contains my own:
 - [x] Chapter 4
 - [x] Chapter 5
 - [x] Chapter 6
-- [ ] Chapter 7
+- [x] Chapter 7
 - [ ] Chapter 8
 - [ ] Chapter 9
 - [ ] Chapter 10
