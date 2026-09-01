@@ -20,6 +20,7 @@ The repository contains:
 - Chapter06-Linear-Model-Selection-and-Regularization/
 - Chapter07-Moving-Beyond-Linearity/
 - Chapter08-Tree-Based-Models/
+- Chapter09-Support-Vector-Machines/
 - README.md
 - requirements.txt
 
@@ -30,7 +31,7 @@ The repository contains:
 - [x] Chapter 5
 - [x] Chapter 6
 - [x] Chapter 7
-- [ ] Chapter 8
+- [x] Chapter 8
 - [ ] Chapter 9
 - [ ] Chapter 10
 - [ ] Chapter 11
