@@ -10,7 +10,7 @@ The repository contains:
 - Model implementations in Python
 - Key concepts learned from each chapter
 
-**The code is mostly generated using AI but the analysis and notes under each are done by me**
+**The code is mostly generated using AI. Code verification, analysis and notes under each are done by me**
 
 ## Repository Structure
 
@@ -21,6 +21,7 @@ The repository contains:
 - Chapter07-Moving-Beyond-Linearity/
 - Chapter08-Tree-Based-Models/
 - Chapter09-Support-Vector-Machines/
+- Chapter10-Deep-Learning/
 - README.md
 - requirements.txt
 
@@ -32,7 +33,7 @@ The repository contains:
 - [x] Chapter 6
 - [x] Chapter 7
 - [x] Chapter 8
-- [ ] Chapter 9
+- [x] Chapter 9
 - [ ] Chapter 10
 - [ ] Chapter 11
 - [ ] Chapter 12
