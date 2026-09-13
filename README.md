@@ -22,6 +22,7 @@ The repository contains:
 - Chapter08-Tree-Based-Models/
 - Chapter09-Support-Vector-Machines/
 - Chapter10-Deep-Learning/
+- Chapter11-Survival-Analysis-and-Censored-data/
 - README.md
 - requirements.txt
 
@@ -34,7 +35,7 @@ The repository contains:
 - [x] Chapter 7
 - [x] Chapter 8
 - [x] Chapter 9
-- [ ] Chapter 10
+- [x] Chapter 10
 - [ ] Chapter 11
 - [ ] Chapter 12
 - [ ] Chapter 13
