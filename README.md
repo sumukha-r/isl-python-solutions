@@ -24,6 +24,7 @@ The repository contains:
 - Chapter10-Deep-Learning/
 - Chapter11-Survival-Analysis-and-Censored-data/
 - Chapter12-Unsupervised-Learning/
+- Chapter13-Multiple-Testing/
 - README.md
 - requirements.txt
 
@@ -38,7 +39,7 @@ The repository contains:
 - [x] Chapter 9
 - [x] Chapter 10
 - [x] Chapter 11
-- [ ] Chapter 12
+- [x] Chapter 12
 - [ ] Chapter 13
 
 ## Technologies
