@@ -10,7 +10,7 @@ The repository contains:
 - Model implementations in Python
 - Key concepts learned from each chapter
 
-**The code is mostly generated using AI. Code verification, analysis and notes under each are done by me**
+**The code is mostly generated using AI. Code verification, prompting, analysis and notes under each are done by me**
 
 ## Repository Structure
 
@@ -40,7 +40,7 @@ The repository contains:
 - [x] Chapter 10
 - [x] Chapter 11
 - [x] Chapter 12
-- [ ] Chapter 13
+- [x] Chapter 13
 
 ## Technologies
 
