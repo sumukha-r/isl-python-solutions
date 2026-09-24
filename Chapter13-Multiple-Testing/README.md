@@ -3,4 +3,4 @@
 ## Progress
 
 - [x] Exercise 7
-- [ ] Exercise 8
+- [x] Exercise 8
